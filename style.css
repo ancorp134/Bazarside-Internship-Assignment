@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: url("hills.png"), #f8f8f8;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100vh;
+  background-position-y: bottom;
+}
+
+h1 {
+  color: black;
+  font-weight: bold;
+}
+.heading {
+  padding-bottom: 2rem;
+}
+.heading div {
+  height: 2px;
+  width: 10rem;
+  margin: auto;
+  background-color: rgb(243, 58, 106);
+}
+a {
+  color: dodgerblue;
+}
+
+.card {
+  border-top: 6px solid rgb(243, 58, 106);
+}
+
+a:hover {
+  color: navy;
+  text-decoration: none;
+}
+.form-control {
+  color: #000;
+  background-color: #fff;
+  box-shadow: none;
+}
+
+.form-group label{
+  width: 100%;
+}
+.btn {
+  background: rgb(243, 58, 106);
+  border: rgb(243, 58, 106);
+  color: white;
+}
