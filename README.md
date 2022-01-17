@@ -1,4 +1,4 @@
-# Bazarside-Intership-Assignment
+# Bazarside-Internship-Assignment
 In this Assignment, I created a  various Password Reset Demo Pages .
 
 page1.html
